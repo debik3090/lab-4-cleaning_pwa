@@ -15,3 +15,4 @@ class PushSubscription extends Model
         'auth_token',
     ];
 }
+

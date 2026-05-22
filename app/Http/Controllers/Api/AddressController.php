@@ -42,3 +42,4 @@ class AddressController extends Controller
         return new AddressResource($address);
     }
 }
+

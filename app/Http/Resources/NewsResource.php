@@ -20,3 +20,4 @@ class NewsResource extends JsonResource
         ];
     }
 }
+

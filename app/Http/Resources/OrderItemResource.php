@@ -17,3 +17,4 @@ class OrderItemResource extends JsonResource
         ];
     }
 }
+

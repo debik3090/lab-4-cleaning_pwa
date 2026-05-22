@@ -24,3 +24,4 @@ class NewsController extends Controller
         return new NewsResource($item);
     }
 }
+

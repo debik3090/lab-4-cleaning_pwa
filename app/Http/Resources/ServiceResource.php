@@ -22,3 +22,4 @@ class ServiceController extends Controller
         return new ServiceResource($service);
     }
 }
+

@@ -17,3 +17,4 @@ class Service extends Model
         'is_active',
     ];
 }
+

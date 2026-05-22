@@ -21,3 +21,4 @@ class OrderItem extends Model
         return $this->belongsTo(Service::class);
     }
 }
+

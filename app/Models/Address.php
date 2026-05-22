@@ -18,3 +18,4 @@ class Address extends Model
         'is_default',
     ];
 }
+

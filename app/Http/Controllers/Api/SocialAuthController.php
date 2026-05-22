@@ -75,3 +75,4 @@ class SocialAuthController extends Controller
         return redirect($frontend . '/profile');
     }
 }
+
